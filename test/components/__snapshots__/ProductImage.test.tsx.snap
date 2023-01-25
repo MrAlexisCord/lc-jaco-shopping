@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TESTs on ProductImage ***   Debe mostrar el component con la imagen del producto (from context) 1`] = `
+<div
+  className="productCard "
+>
+  <img
+    alt="Product"
+    className="productImg "
+    src="./coffee-mug.png"
+  />
+</div>
+`;
+
+exports[`TESTs on ProductImage ***   Debe mostrar la imagen personallizada 1`] = `
+<img
+  alt="Product"
+  className="productImg "
+  src="https://hola.png"
+/>
+`;

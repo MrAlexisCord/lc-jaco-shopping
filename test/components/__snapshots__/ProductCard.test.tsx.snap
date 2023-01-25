@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TESTs on ProductCard ***   Debe incrementar el contador 1`] = `
+<div
+  className="productCard "
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`TESTs on ProductCard ***   Debe incrementar el contador 2`] = `
+<div
+  className="productCard "
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+    1
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`TESTs on ProductCard ***   Debe mostrar la imagen personallizada 1`] = `
+<div
+  className="productCard "
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TESTs on ProductTitle ***   Debe mostrar el component con el título del producto (from context) 1`] = `
+<div
+  className="productCard "
+>
+  <span
+    className="productDescription "
+  >
+    Coffee Mug
+  </span>
+</div>
+`;
+
+exports[`TESTs on ProductTitle ***   Debe mostrar el component con el título personalizado 1`] = `
+<span
+  className="productDescription "
+>
+  Custom Product
+</span>
+`;
